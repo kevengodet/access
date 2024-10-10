@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Mevia\Access\Model;
+namespace Keven\Access\Model;
 
 interface Resource
 {

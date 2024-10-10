@@ -2,13 +2,13 @@
 
 declare(strict_types=1);
 
-namespace Mevia\Access\Tool;
+namespace Keven\Access\Tool;
 
-use Mevia\Access\Model\Action;
-use Mevia\Access\Model\Decision;
-use Mevia\Access\Model\Identity;
-use Mevia\Access\Model\Request;
-use Mevia\Access\Model\Resource;
+use Keven\Access\Model\Action;
+use Keven\Access\Model\Decision;
+use Keven\Access\Model\Identity;
+use Keven\Access\Model\Request;
+use Keven\Access\Model\Resource;
 
 final class Factory
 {

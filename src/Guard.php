@@ -2,14 +2,14 @@
 
 declare(strict_types=1);
 
-namespace Mevia\Access;
+namespace Keven\Access;
 
-use Mevia\Access\Model\Decision;
-use Mevia\Access\Model\Normalizer;
-use Mevia\Access\Model\Request;
-use Mevia\Access\Policy\Policy;
-use Mevia\Access\Tool\DumbNormalizer;
-use Mevia\Access\Tool\Factory;
+use Keven\Access\Model\Decision;
+use Keven\Access\Model\Normalizer;
+use Keven\Access\Model\Request;
+use Keven\Access\Policy\Policy;
+use Keven\Access\Tool\DumbNormalizer;
+use Keven\Access\Tool\Factory;
 
 final class Guard
 {

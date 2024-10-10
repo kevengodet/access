@@ -2,12 +2,12 @@
 
 declare(strict_types=1);
 
-namespace Mevia\Access\Tool;
+namespace Keven\Access\Tool;
 
-use Mevia\Access\Model\Action;
-use Mevia\Access\Model\Identity;
-use Mevia\Access\Model\Normalizer;
-use Mevia\Access\Model\Resource;
+use Keven\Access\Model\Action;
+use Keven\Access\Model\Identity;
+use Keven\Access\Model\Normalizer;
+use Keven\Access\Model\Resource;
 
 final class DumbNormalizer implements Normalizer
 {

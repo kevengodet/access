@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Mevia\Access\Policy;
+namespace Keven\Access\Policy;
 
-use Mevia\Access\Model\Decision;
-use Mevia\Access\Model\Request;
+use Keven\Access\Model\Decision;
+use Keven\Access\Model\Request;
 
 interface Policy
 {
